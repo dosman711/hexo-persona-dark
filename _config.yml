@@ -15,11 +15,10 @@ twitter:
   show_replies: false
   tweet_count: 5
 
-facebook: baker.chris
 github: dosman711
 email: dosman711@gmail.com
 about: ".Net developer from Indianapolis, IN"
-photo: http://0.gravatar.com/avatar/22d6d44b174c3891d35f99e9cde5a213
+googleplus: +ChrisBaker711
 
 addthis:
   enable: false
